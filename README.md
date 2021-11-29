@@ -114,6 +114,29 @@ As the Metaverse progresses we will start NFTizing EVERYTHING and this project i
 Hopefully you like it!
 
 
+# Team
+
+#### 3 Engineers with experience developing IoT and hardware solutions. We have been working together now for 5 years since University.
+
+[<img src="https://img.shields.io/badge/Luis%20Eduardo-Arevalo%20Oliver-blue">](https://www.linkedin.com/in/luis-eduardo-arevalo-oliver-989703122/)
+
+[<img src="https://img.shields.io/badge/Victor%20Alonso-Altamirano%20Izquierdo-lightgrey">](https://www.linkedin.com/in/alejandro-s%C3%A1nchez-guti%C3%A9rrez-11105a157/)
+
+[<img src="https://img.shields.io/badge/Alejandro-Sanchez%20Gutierrez-red">](https://www.linkedin.com/in/victor-alonso-altamirano-izquierdo-311437137/)
+
+And yes, we also support the Helium Network!
+
+<img src="https://i.ibb.co/BV1rpJf/nebra.jpg" width="200">
+
+From a long time ago!
+
+Helium IoT for Good contest Runner-up Agrohelium by Luis Eduardo Oliver:
+
+https://www.hackster.io/Edoliver/agrohelium-urban-agriculture-aiot-solution-d8fbf4
+
+Our team comes from a diverse background but we now have around 15 years of combined IoT development experience and are exploring the IoT plus blockchain space.
+
+
 # Acknowledgements and References
 
 https://www.trendmicro.com/vinfo/mx/security/news/internet-of-things/blockchain-the-missing-link-between-security-and-the-iot
