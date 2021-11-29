@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://botlink.site/) [<img src="https://img.shields.io/badge/View-Video-red">](PONER VIDEO)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://botlink.site/) [<img src="https://img.shields.io/badge/View-Video-red">](https://www.youtube.com/watch?v=Tymdr2j9Dug)
 
 #### Live: https://botlink.site/
 
@@ -7,6 +7,8 @@ Socials:
 https://www.facebook.com/Botlink-102160675641657
 
 https://twitter.com/BoTLINK_
+
+### Main Video!: https://www.youtube.com/watch?v=Tymdr2j9Dug
 
 
 # BoTLINK
