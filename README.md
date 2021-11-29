@@ -58,7 +58,7 @@ With this we aim to provide several services to businesses and enterprises such 
 
 ## How it's built
 
-Each of the devices connected to the Helium Network. They send the information from LoRaWAN to the network, once it gets there it is sent directly to our integration (an API) which works as a WebHook, this request reaches our NodeJS Express server.  It then  processes each of the hook calls and sends them to the solana blockchain through the Solana CLI, which is installed and configured on the server to communicate with the devnet directly.
+Each of the IoT devices are connected to the Helium Network. They send the information from LoRaWAN to the network, once it gets there it is sent directly to our integration (an API) which works as a WebHook, this request reaches our NodeJS Express server.  It then  processes each of the hook calls and sends them to the solana blockchain through the Solana CLI, which is installed and configured on the server to communicate with the devnet directly.
 
 System's Architecture:
 
