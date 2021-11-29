@@ -86,6 +86,7 @@ Services used:
 
 - Chainlink VRF, to add Verifiable Randomness to NFTs, quite important when managing IoT devices.
    - https://chain.link/education/nfts
+   - Contract here: https://github.com/EddOliver/BoTLINK/tree/main/Contract
 
 - Helium Network - LoraWAN Main Service.
   - https://www.helium.com/
