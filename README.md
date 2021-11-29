@@ -147,4 +147,6 @@ https://www.frontiersin.org/articles/10.3389/fbloc.2020.522600/full
 
 https://www.vechain.org/whitepaper/#bit_dgkec
 
+https://harborresearch.com/more-than-a-meme-nfts-and-the-iot/
+
 
