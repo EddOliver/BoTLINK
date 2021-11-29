@@ -48,19 +48,37 @@ In addition to that we are incorporating Polygon as it is a better alternative t
 
 Of course we need to secure this assets with verifyable randomness, so we will be using the Chainlink VRF for that.
 
+<img src="https://i.ibb.co/XbtYWq1/VRF.png">
+
 Importance of VFR according to Chainlink's documentation:
 
 "Chainlink VRF is a Verifiable Random Function that provides smart contracts and NFTs with a secure source of randomness backed by a cryptographic proof. The cryptographic proof serves as an audit trail proving the RNG operated in a tamper-proof manner. The cryptographic proof is then validated on-chain before delivering the random number to the consuming NFT contract, helping guarantee only truly random values are consumed. The strong security properties of Chainlink VRF help ensure neither the oracle, users, or developers can manipulate or predict the random number generated, resulting in NFTs that are assigned provably rare attributes and NFT collections distributed in a verifiably fair and unbiased manner."
 
 With this we aim to provide several services to businesses and enterprises such as provenance and asset tracking in a new, effectively secure way.
 
-## Demo
+## At a glance
+
+This is the landing page of our NFT "marketplace", imagine it as a platform such as SAP where you would manage your fleet of offline assets, tracking, sensor data and so forth.
+
+<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/758/019/datas/gallery.jpg">
+
+In the device section after going through Metamask you'll get a look at your fleet of devices, from which you can choose to assigned to an NFTized asset to track it along a certain path that can be predetermined through a smart contract (in which the release can also be automated).
+
+<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/758/017/datas/gallery.jpg">
+
+Here you can see how an NFTized asset looks at a glance in the webpage, you can also see the IoT data feed, the Solana link where that data is uploaded to and also the Polygon scan of said NFT with its information and metadata.
+
+<img src="https://i.ibb.co/bb2jgLD/Screenshot-from-2021-11-28-22-44-23.png">
+
+For more on the MVP you can check our main video to further our insight on the development of this project and to see IoT devices in real time action!
 
 ## How it's built
 
-Each of the devices connected to the Helium Network. They send the information from LoRaWAN to the network, once it gets there it is sent directly to our integration (an API) which works as a WebHook, this request reaches our NodeJS Express server.  It then  processes each of the hook calls and sends them to the solana blockchain through the Solana CLI, which is installed and configured on the server to communicate with the devnet directly.
+Each of the IoT devices are connected to the Helium Network. They send the information through LoRaWAN to the network, once it gets there it is sent directly to our integration (an API) which works as a WebHook, this request reaches our NodeJS Express server.  It then  processes each of the hook calls and sends them to the solana blockchain through the Solana CLI, which is installed and configured on the server to communicate with the devnet directly.
 
 System's Architecture:
+
+<img src="https://i.ibb.co/SPdmX7d/Botlink-Esquema.png">
 
 All communication with the server and the website is done through API Management to facilitate scalability when server requests become larger.
 
@@ -114,6 +132,29 @@ As the Metaverse progresses we will start NFTizing EVERYTHING and this project i
 Hopefully you like it!
 
 
+# Team
+
+#### 3 Engineers with experience developing IoT and hardware solutions. We have been working together now for 5 years since University.
+
+[<img src="https://img.shields.io/badge/Luis%20Eduardo-Arevalo%20Oliver-blue">](https://www.linkedin.com/in/luis-eduardo-arevalo-oliver-989703122/)
+
+[<img src="https://img.shields.io/badge/Victor%20Alonso-Altamirano%20Izquierdo-lightgrey">](https://www.linkedin.com/in/alejandro-s%C3%A1nchez-guti%C3%A9rrez-11105a157/)
+
+[<img src="https://img.shields.io/badge/Alejandro-Sanchez%20Gutierrez-red">](https://www.linkedin.com/in/victor-alonso-altamirano-izquierdo-311437137/)
+
+And yes, we also support the Helium Network!
+
+<img src="https://i.ibb.co/BV1rpJf/nebra.jpg" width="200">
+
+From a long time ago!
+
+Helium IoT for Good contest Runner-up Agrohelium by Luis Eduardo Oliver:
+
+https://www.hackster.io/Edoliver/agrohelium-urban-agriculture-aiot-solution-d8fbf4
+
+Our team comes from a diverse background but we now have around 15 years of combined IoT development experience and are exploring the IoT plus blockchain space.
+
+
 # Acknowledgements and References
 
 https://www.trendmicro.com/vinfo/mx/security/news/internet-of-things/blockchain-the-missing-link-between-security-and-the-iot
@@ -121,5 +162,7 @@ https://www.trendmicro.com/vinfo/mx/security/news/internet-of-things/blockchain-
 https://www.frontiersin.org/articles/10.3389/fbloc.2020.522600/full
 
 https://www.vechain.org/whitepaper/#bit_dgkec
+
+https://harborresearch.com/more-than-a-meme-nfts-and-the-iot/
 
 
