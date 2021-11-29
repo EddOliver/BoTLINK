@@ -48,6 +48,8 @@ In addition to that we are incorporating Polygon as it is a better alternative t
 
 Of course we need to secure this assets with verifyable randomness, so we will be using the Chainlink VRF for that.
 
+<img src="https://i.ibb.co/XbtYWq1/VRF.png">
+
 Importance of VFR according to Chainlink's documentation:
 
 "Chainlink VRF is a Verifiable Random Function that provides smart contracts and NFTs with a secure source of randomness backed by a cryptographic proof. The cryptographic proof serves as an audit trail proving the RNG operated in a tamper-proof manner. The cryptographic proof is then validated on-chain before delivering the random number to the consuming NFT contract, helping guarantee only truly random values are consumed. The strong security properties of Chainlink VRF help ensure neither the oracle, users, or developers can manipulate or predict the random number generated, resulting in NFTs that are assigned provably rare attributes and NFT collections distributed in a verifiably fair and unbiased manner."
