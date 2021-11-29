@@ -13,7 +13,7 @@ https://twitter.com/BoTLINK_
 
 # BoTLINK
 
-<img src="https://i.ibb.co/MDy0h9C/bot2.png">
+<img src="https://i.ibb.co/MDy0h9C/bot2.png" width="400">
 
 BoTLINK is a platform that NFTizes offline assets and connects blockchains with the Internet of Things, powered by Polygon, Solana and Chainlink
 
