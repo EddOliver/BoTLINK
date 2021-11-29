@@ -1,16 +1,17 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://kharonprotocol.com) [<img src="https://img.shields.io/badge/View-Video-red">](https://www.youtube.com/watch?v=Fiele_PBU-0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://botlink.site/) [<img src="https://img.shields.io/badge/View-Video-red">](PONER VIDEO)
 
-#### Live: https://kharonprotocol.com
+#### Live: https://botlink.site/
 
 Socials:
 
-https://www.facebook.com/KharonProtocol
+https://www.facebook.com/Botlink-102160675641657
 
-https://twitter.com/KharonProtocol
+https://twitter.com/BoTLINK_
 
 
 # BoTLINK
-BoTLINK is a platform that NFTizes offline assets and connects blockchains with the Internet of Things.
+
+BoTLINK is a platform that NFTizes offline assets and connects blockchains with the Internet of Things, powered by Polygon, Solana and Chainlink
 
 
 ## Introduction and Problem Statement
@@ -79,7 +80,7 @@ Services used:
 - Moralis - We Respek da pump so a lot of our front end uses Moralis' APIs.
   -https://moralis.io/
 
-# Market analysis
+## Market analysis
 
 According to Cisco, over the next decade, the logistics industry, with the implementation of IoT, is likely to generate USD 1.9 trillion, as a result of unlocking higher levels of operational efficiency. This is considering the fact that IoT connects millions of shipments in real time. With its strong manufacturing and transportation and logistics base, North America offers significant potential to asset management technology providers. Furthermore, the governments in the region contributed to increasing the need for asset management in the region. For instance, in the US transportation and logistics sector, the Federal Highway Association (FHWA), along with the American Association of State Highway and Transportation Officials (AASHTO) and state and local departments of transportation (DOTs), has been encouraging the application of asset management.
 
