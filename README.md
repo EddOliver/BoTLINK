@@ -114,3 +114,12 @@ As the Metaverse progresses we will start NFTizing EVERYTHING and this project i
 Hopefully you like it!
 
 
+# Acknowledgements and References
+
+https://www.trendmicro.com/vinfo/mx/security/news/internet-of-things/blockchain-the-missing-link-between-security-and-the-iot
+
+https://www.frontiersin.org/articles/10.3389/fbloc.2020.522600/full
+
+https://www.vechain.org/whitepaper/#bit_dgkec
+
+
