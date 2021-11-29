@@ -1,2 +1,2 @@
 # BoTLINK
-BoTLINK is a an AVAX based DeFi space that powers-up businesses and individuals by connecting blockchains with IoT.
+BoTLINK is a platform that NFTizes offline assets and connects blockchains with the Internet of Things.
