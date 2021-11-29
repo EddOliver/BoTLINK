@@ -9,7 +9,7 @@ import logo from '../assets/logof.png';
 import ipfs from '../assets/IPFS.png';
 import polygon from '../assets/polygon.png';
 import moralis from '../assets/moralis.png';
-import chainlink from  '../assets/chainlink.png';
+import chainlink from '../assets/chainlink.png';
 import { connect } from 'react-redux';
 
 class Footer extends Component {
@@ -58,25 +58,20 @@ class Footer extends Component {
                                 <Row>
                                     <Col>
                                         <FaTwitter
-                                            onClick={() => window.open("https://twitter.com/DAuthenticator", "_blank")}
+                                            onClick={() => window.open("https://twitter.com/BoTLINK_", "_blank")}
                                             style={{ fontSize: "4rem", color: "#1DA1F2" }}
                                         />
                                     </Col>
-                                    <Col>
-                                        <FaInstagram
-                                            onClick={() => window.open("https://www.instagram.com/dauthenticator", "_blank")}
-                                            style={{ fontSize: "4rem", color: "#cd486b" }}
-                                        />
-                                    </Col>
+
                                     <Col>
                                         <FaFacebook
-                                            onClick={() => window.open("https://www.facebook.com/D-Authenticator-104120638767833", "_blank")}
+                                            onClick={() => window.open("https://www.facebook.com/Botlink-102160675641657", "_blank")}
                                             style={{ fontSize: "4rem", color: "#4267B2" }}
                                         />
                                     </Col>
                                     <Col>
                                         <FaYoutube
-                                            onClick={() => window.open("https://youtu.be/Q0_sihBl1NI", "_blank")}
+                                            onClick={() => window.open("https://www.youtube.com/watch?v=Tymdr2j9Dug", "_blank")}
                                             style={{ fontSize: "4rem", color: "#FF0000" }}
                                         />
                                     </Col>
@@ -118,7 +113,7 @@ class Footer extends Component {
                                                 </a>
                                             </Col>
                                             <Col>
-                                                <a className="nostyle" href="https://github.com/altaga/D-Authenticator" target="_blank" rel="noopener noreferrer">
+                                                <a className="nostyle" href="https://github.com/EddOliver/BoTLINK" target="_blank" rel="noopener noreferrer">
                                                     FAQ's
                                                 </a>
                                             </Col>
@@ -130,28 +125,22 @@ class Footer extends Component {
                                                 Connect
                                             </div>
                                             <Col>
-                                                <a className="nostyle" href="https://www.instagram.com/dauthenticator/" target="_blank" rel="noopener noreferrer">
-                                                    Instagram
-                                                </a>
-                                            </Col>
-
-                                            <Col>
-                                                <a className="nostyle" href="https://twitter.com/DAuthenticator" target="_blank" rel="noopener noreferrer">
+                                                <a className="nostyle" href="https://twitter.com/BoTLINK_" target="_blank" rel="noopener noreferrer">
                                                     Twitter
                                                 </a>
                                             </Col>
                                             <Col>
-                                                <a className="nostyle" href="https://youtu.be/Q0_sihBl1NI" target="_blank" rel="noopener noreferrer">
+                                                <a className="nostyle" href="https://www.youtube.com/watch?v=Tymdr2j9Dug" target="_blank" rel="noopener noreferrer">
                                                     YouTube
                                                 </a>
                                             </Col>
                                             <Col>
-                                                <a className="nostyle" href="https://www.facebook.com/D-Authenticator-104120638767833" target="_blank" rel="noopener noreferrer">
+                                                <a className="nostyle" href="hhttps://www.facebook.com/Botlink-102160675641657" target="_blank" rel="noopener noreferrer">
                                                     Facebook
                                                 </a>
                                             </Col>
                                             <Col>
-                                                <a className="nostyle" href="mailto:nftondemand@yandex.com">
+                                                <a className="nostyle" href="mailto:botlinknft@protonmail.com">
                                                     Contact
                                                 </a>
                                             </Col>
