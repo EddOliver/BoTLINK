@@ -1,3 +1,14 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://kharonprotocol.com) [<img src="https://img.shields.io/badge/View-Video-red">](https://www.youtube.com/watch?v=Fiele_PBU-0)
+
+#### Live: https://kharonprotocol.com
+
+Socials:
+
+https://www.facebook.com/KharonProtocol
+
+https://twitter.com/KharonProtocol
+
+
 # BoTLINK
 BoTLINK is a platform that NFTizes offline assets and connects blockchains with the Internet of Things.
 
@@ -67,6 +78,24 @@ Services used:
 
 - Moralis - We Respek da pump so a lot of our front end uses Moralis' APIs.
   -https://moralis.io/
+
+# Market analysis
+
+According to Cisco, over the next decade, the logistics industry, with the implementation of IoT, is likely to generate USD 1.9 trillion, as a result of unlocking higher levels of operational efficiency. This is considering the fact that IoT connects millions of shipments in real time. With its strong manufacturing and transportation and logistics base, North America offers significant potential to asset management technology providers. Furthermore, the governments in the region contributed to increasing the need for asset management in the region. For instance, in the US transportation and logistics sector, the Federal Highway Association (FHWA), along with the American Association of State Highway and Transportation Officials (AASHTO) and state and local departments of transportation (DOTs), has been encouraging the application of asset management.
+
+Overall, technologies, such as RFID, sensors, location-based technologies, and integrating software, and the recent IoT implementation have been serving the needs of asset management. Factors, such as e-commerce and the increasing industrial assets due to Industry 4.0, have been promoting the asset management market.
+
+Asset Tracking Market was valued at USD 17.14 billion in 2020 and is expected to reach USD 34.82 billion by 2026 at a CAGR of 13.45% during the forecast period 2021 - 2026.
+
+<img src="https://inkwoodresearch.com/wp-content/uploads/edd/2020/10/Asset-Tracking-Market.jpg">
+
+Reference: https://www.prnewswire.com/news-releases/34-82-billion-asset-tracking-markets---global-growth-trends-covid-19-impact-and-forecasts-report-2021-2026--301320916.html
+
+Now let's analyze the growth of the web3 decentralized model for hardware based infrastructure in (you guessed it!) the Helium Network.
+Helium Network is the fastest-growing wireless network, decentralising connectivity and expanding access to the internet worldwide. Fewer than two years since the Network's launch, it has achieved global adoption with more than 330,000 Hotspots deployed across 20,000 cities worldwide. Giving an incentive in the form of tokens to those that sustain the network.
+
+<img src="https://i.ibb.co/yVyhPKP/helium.png">
+
 
 
 ## What's next for BoTLINK
