@@ -62,6 +62,8 @@ Each of the devices connected to the Helium Network. They send the information f
 
 System's Architecture:
 
+<img src="https://i.ibb.co/SPdmX7d/Botlink-Esquema.png">
+
 All communication with the server and the website is done through API Management to facilitate scalability when server requests become larger.
 
 Services used:
